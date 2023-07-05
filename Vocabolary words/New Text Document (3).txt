@@ -1,0 +1,71 @@
+Vocabulary 3 – Value, Texture, Volume, Plane, Line Quality, Directional Lines, Converging Lines, Hatching, Cross-hatching, Stippling, Blending, Scribbling, Compressed Space, Expanded Space, Continuation, Direction, Hierarchy, Directional Dominance, Directional Conflict
+
+Vocabulary 4 – Value Range, Tint, Shade, Value Contrast, Achromatic Gray, Chiaroscuro, Value Pattern, Shading, Shaped Value Gradation, Figure/Ground Value Reversal, Low Key, High Key, Subjective, Expressive, Rhythm, Movement, Closure, Scale, Atmospheric Perspective
+
+Vocabulary 5 – Color, Primary Colors, Secondary Colors, Tertiary Colors, Hue, Value, Saturation, Color Harmony, Monochromatic, Analogous Colors, Complementary Colors, Color Temperature, Cool Colors, Warm Colors, Simultaneous Contrast, Emotional Colors, Color Symbolism
+
+
+
+VALUE – The relative degree of lightness or darkness of a color or surface. Element of Design.
+TEXTURE – The surface quality of a two-dimensional shape or a three-dimensional volume that appeals to the tactile sense
+VOLUME – In 2D refers to the appearance of height, width, and depth in a form.
+In 3D refers to the space occupied by an object:
+closed volume – a compact, solid mass; material doesn’t reach into surrounding space
+open volume – more diffuse forms; material reaches into surrounding space
+PLANE – The 2D surface surface of a shape
+DIRECTIONAL LINES – Implied or actual movement of an element within a composition
+CONVERGING LINES- lines which get closer together as they approach a given place such as the horizon
+HATCHING-shading with closely drawn parallel lines
+CROSS-HATCHING- (in drawing or graphics) shade (an area) with intersecting sets of parallel lines.
+STIPPLING- mark (a surface) with numerous small dots or specks to create value
+BLENDING- merge (a color or value) with another so that one is not clearly distinguishable from the other
+SCRIBBLING- (circling) to create value with a varied, overlapping organic line
+COMPRESSED SPACE – Points or lines packed together creating Visual Depth and the illusion of receding Volume through Value Gradation. Works best along Expanded Space
+EXPANDED SPACE – Points or lines packed away from each other creating Visual Depth and the illusion of advancing Volume through Value Gradation. Works best along Compressed Space.
+CONTINUATION – A line or edge that continues from one form or shape to another, allowing the eye to move smoothly through a composition this line can be actual or implied.
+DIRECTION – Implied or actual movement of an element within a composition
+HIERARCHY – Composition that shows difference in significance between elements; designers can influence the order in which we perceive elements in the composition through contrast and similarity
+DIRECTIONAL DOMINANCE- the primary direction that has been established in the design
+DIRECTIONAL HIERARCHY- when several directions have been established in the visual flow of a design, but one direction is dominant, one direction is secondary, and all other directions are auxiliary
+
+
+
+VALUE RANGE – The lightest and darkest areas of value in a particular work. A full/broad range of values extends from white through infinite steps or gradations of grays, all the way to black
+TINT – The result of mixing a color with white
+SHADE- the result of mixing a color with black
+VALUE CONTRAST- the difference in degrees of lightness or darkness between two values
+ACHROMATIC GRAY- a gray with no color bias (neutral)
+CHIAROSCURO – An Italian word, literally “light – dark”, a term applied to extravagantly contrasted light and shade effects of late Renaissance painting
+VALUE PATTERN – The arrangement or organization of values that control compositional movement and create a unifying effect throughout a work or art
+SHADING – The darker value on the surface of an object that gives the illusion that a portion of it is turned away from or obscured by the source of light.
+SHAPED VALUE GRADATION – Value gradation that takes on a curve or sharp bend or other interesting line which echoes an important shape in the art work. The result is that the shaped value gradation not only does its primary job of blending from dark to light but it also does a secondary job of echoing a shape
+FIGURE/GROUND VALUE REVERSAL – The “ground” is the background and “figure” is a shape in it. When the value within a figure changes from light to dark, the area of the figure that is darker is surrounded by a lighter value in the ground and the area of the figure which is lighter is surrounded by a darker value in the ground
+LOW KEY – When the colors are predominantly in a dark value range
+HIGH KEY – when the colors are predominantly in a light value range
+SUBJECTIVE- based on or influenced by personal feelings, tastes, or opinions.
+EXPRESSIVE- effectively conveying thought or feeling
+RHYTHM- a harmonious sequence or correlation of colors or elements
+MOVEMENT – Eye travel directed by deliberate visual pathways in a work of art. See Rhythm. Principle of Organization
+CLOSURE – The mind’s inclination to connect fragmentary information to produce a completed form
+SCALE – A size relationship between different shapes or forms
+ATMOSPHERIC (AERIAL) PERSPECTIVE – The illusion of deep space produced in graphic works by lightning values, softening details and textures, reducing value contrasts, and neutralizing colors in objects as they recede
+
+
+COLOR – A property of light; objects have no color of their own but merely reflect certain rays of white light, which contain all the colors.
+PRISMATIC COLORS – Pure hues that represent the colors of the color spectrum at their highest saturation level.
+PRIMARY COLORS- RED/ YELLOW/ BLUE. Primary colors in a subtractive color wheel cannot be mixed from other colors
+SECONDARY COLORS – PURPLE / GREEN / ORANGE. Colors mixed from adjacent primaries
+TERTIARY COLORS- the six colors mixed from a primary and an adjacent secondary (red-orange) on the color wheel
+HUE – the name given to a color.
+VALUE- The relative degree of lightness or darkness of a color or surface. Element of Design
+SATURATION- Also called in the US as Intensity and refers to the relative purity of the hue present in a color.
+COLOR HARMONY – The pleasing combination of parts the make up a whole composition
+MONOCHROMATIC – A color system based on variations in a single hue. For example, a light pastel blue, a medium navy blue, and a dark blue-black.
+ANALOGOUS COLORS – Colors that are closely related in hue(s). They are adjacent on a color wheel, such as red, orange and yellow.
+COMPLEMENTARY COLORS – Colors that lie directly opposite each other on the color wheel. When juxtaposed, complementary colors create contrast, when mixed, complementary colors neutralize each other, creating a variety of browns.
+COLOR TEMPERATURE- the relative warmth or coolness of a hue. The color wheel may be divided into warm and cool, and each hue has a warm and cool bias (red-orange is warm, red-violet is cool)
+COOL COLORS – blues, greens and purples.
+WARM COLORS – Reds, oranges, yellows.
+SIMULTANEOUS CONTRAST- the pairing of two complementary colors at similar levels of saturation and value in a design
+EMOTIONAL COLORS- Color temperature can influence mood, warm colors may appear energetic, happy, uplifting and cool colors may appear calm, tranquil or depressing
+COLOR SYMBOLISM- the use of colors to represent ideas or qualities, express mystical ideas, e
